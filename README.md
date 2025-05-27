@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ## 📖 文章
 
 * [掘金](https://juejin.cn/user/1591748570383438)
-* [博客](https://github.com/AprilTong)
+* [博客](https://april-tong.cn)
