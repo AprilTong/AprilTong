@@ -1,10 +1,10 @@
-### Hi 👋 I'm [AprilTong](https://april-tong.com/)
+### Hi 👋 I'm [AprilTong](https://blog.april-tong.cn/)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=apriltong&show_icons=true)
+![Github Stats](https://github-stats-extended.vercel.app/api?username=apriltong&show_icons=true)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriltong&layout=compact&hide=css,html)](https://april-tong.com/)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=apriltong&layout=compact&hide=css,html)](https://blog.april-tong.cn/)
 <!--
 **AprilTong/AprilTong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 
 ## 📖 文章
 
-* [掘金](https://juejin.cn/user/1591748570383438)
-* [博客](https://april-tong.cn)
+* [掘金](https://juejin.cn/user/1591748570383438/posts)
+* [博客](https://blog.april-tong.cn/)
+* [knowflow-ai](https://knowflow-ai.bran-nie.cn/login)
