@@ -1,4 +1,4 @@
-### Hi 👋 I'm [AprilTong](https://blog.april-tong.cn/)
+### Hi 👋 I'm [AprilTong](https://blog.april-tong.cn/others/)
 
 ![Github Stats](https://github-stats-extended.vercel.app/api?username=apriltong&show_icons=true)
 
